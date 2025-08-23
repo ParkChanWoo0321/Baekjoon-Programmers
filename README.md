@@ -5,9 +5,19 @@
 **백준(BOJ)** 과 **프로그래머스(Programmers)** 에서 푼 문제들이 자동으로 업로드됩니다.
 
 ---
-
+<div align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrcksdn0321)  
+
+</div>
+
+---
+
+<div align="center">
+  
 ![Solved.ac solved count](http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm)
+
+</div>
 
 ---
 
