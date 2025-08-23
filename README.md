@@ -6,17 +6,6 @@
 
 ---
 
-## 🛠️ 기술 스택 & 현황
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/ParkChanWoo0321/backjoon-study?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/ParkChanWoo0321/backjoon-study?style=flat-square)
-
----
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrcksdn0321)  
 ![Solved.ac solved count](http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm)
 
@@ -26,13 +15,6 @@
 
 - 알고리즘 실력 향상 및 코딩 테스트 대비  
 - GitHub를 통해 문제 풀이 이력을 체계적으로 관리  
-
----
-
-## 📊 GitHub 활동 현황
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkChanWoo0321&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkChanWoo0321&layout=compact&theme=radical)
 
 ---
 
