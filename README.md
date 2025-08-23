@@ -1,6 +1,6 @@
-# 📝 Algorithm Study (Baekjoon & Programmers)
+# 📝 Baekjoon & Programmers
 
-이 저장소는 제가 **알고리즘 문제 풀이**를 정리하는 공간입니다.  
+이 저장소는 저의 Baekjoon & Programmers 를 정리하는 공간입니다.  
 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) 크롬 확장 프로그램을 사용하여  
 **백준(BOJ)** 과 **프로그래머스(Programmers)** 에서 푼 문제들이 자동으로 업로드됩니다.
 
