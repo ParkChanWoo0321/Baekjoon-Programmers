@@ -14,25 +14,14 @@
 ![Baekjoon](https://img.shields.io/badge/BOJ-0066CC?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiPjxjaXJjbGUgY3g9IjUwMCIgY3k9IjUwMCIgcj0iNTAwIiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B&logoColor=white)
 ![Programmers](https://img.shields.io/badge/Programmers-222222?style=flat-square&logo=vercel&logoColor=white)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/사용자아이디/저장소이름?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/사용자아이디/저장소이름?style=flat-square)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrksdn0321)
+![GitHub last commit](https://img.shields.io/github/last-commit/ParkChanWoo0321/backjoon-study?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/ParkChanWoo0321/backjoon-study?style=flat-square)
 
 ---
 
-## 📂 저장소 구조
-.
-├── BOJ/ # 백준 문제 풀이
-│ ├── 1000.py # A+B
-│ ├── 1018.cpp # 체스판 다시 칠하기
-│ └── ...
-├── Programmers/ # 프로그래머스 문제 풀이
-│ ├── lv1_두_정수의_합.py
-│ ├── lv2_가장_큰_수.java
-│ └── ...
-└── README.md
-.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrcksdn0321)  
+![Solved.ac solved count](http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm)
+
 ---
 
 ## 🎯 목표
@@ -42,6 +31,14 @@
 
 ---
 
+## 📊 GitHub 활동 현황
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자아이디&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자아이디&layout=compact&theme=radical)
+
+---
+
 ## 🏆 기록
+
 - 백준, 프로그래머스 문제 풀이 자동 업로드 중  
-- 꾸준한 알고리즘 학습을 목표로 합니다 🚀
+- 꾸준한 알고리즘 학습
