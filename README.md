@@ -17,7 +17,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/사용자아이디/저장소이름?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/사용자아이디/저장소이름?style=flat-square)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준아이디)](https://solved.ac/profile/본인백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrksdn0321)
 
 ---
 
@@ -32,15 +32,11 @@
 │ ├── lv2_가장_큰_수.java
 │ └── ...
 └── README.md
-
-yaml
-복사
-편집
-
+.
 ---
 
 ## 🎯 목표
-- 하루 최소 1문제 이상 꾸준히 풀기  
+
 - 알고리즘 실력 향상 및 코딩 테스트 대비  
 - GitHub를 통해 문제 풀이 이력을 체계적으로 관리  
 
