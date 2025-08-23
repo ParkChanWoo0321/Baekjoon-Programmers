@@ -33,8 +33,8 @@
 
 ## 📊 GitHub 활동 현황
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자아이디&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자아이디&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkChanWoo0321&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkChanWoo0321&layout=compact&theme=radical)
 
 ---
 
