@@ -11,8 +11,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 
-![Baekjoon](https://img.shields.io/badge/BOJ-0066CC?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiPjxjaXJjbGUgY3g9IjUwMCIgY3k9IjUwMCIgcj0iNTAwIiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B&logoColor=white)
-![Programmers](https://img.shields.io/badge/Programmers-222222?style=flat-square&logo=vercel&logoColor=white)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ParkChanWoo0321/backjoon-study?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/ParkChanWoo0321/backjoon-study?style=flat-square)
