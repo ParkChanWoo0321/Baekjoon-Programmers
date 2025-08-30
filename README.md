@@ -6,8 +6,10 @@
 
 ---
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321)](https://solved.ac/profile/qkrcksdn0321)  
-![Solved.ac solved count](http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm)
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321" />
+  <img src="http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm" />
+</p>
 
 ---
 
