@@ -6,7 +6,7 @@
 
 ---
   
-| Solved.ac Profile | Solved.ac solved count |
+| Profile | Count |
 |-------------------|-------------------------|
 | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321"/> | <img src="http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm"/> |
 
