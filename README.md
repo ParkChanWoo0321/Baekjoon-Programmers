@@ -6,10 +6,9 @@
 
 ---
   
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321" />
-  <img src="http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm" />
-</p>
+| Solved.ac Profile | Solved.ac solved count |
+|-------------------|-------------------------|
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrcksdn0321"/> | <img src="http://mazandi.herokuapp.com/api?handle=qkrcksdn0321&theme=warm"/> |
 
 ---
 
