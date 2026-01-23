@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String str = sc.next();
+        int[] score = new int[26];
+        for (int i = 0; i < 26; i++) score[i] = -1;
+        for (int i = 0; i < str.length(); i++) {
+            int idx = str.charAt(i) - 'a';
+            if (score[idx] == -1) score[idx] = i;
+        }
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < 26; i++) {
+            sb.append(score[i]).append(' ');
+        }
+        System.out.print(sb.toString());
+        sc.close();
+    }
+}
